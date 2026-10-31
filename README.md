@@ -22,5 +22,4 @@ and become an independent developer.
 
 ## Projects
 
-More projects will be added here!# github-learning
-My first GitHub repository for learning Git and GitHub
+More projects will be added here!
